@@ -21,6 +21,10 @@ p {
     line-height: 1.5em;
 }
 
+li {
+   list-style:none;
+}
+
 a {
     color: red;
 }
